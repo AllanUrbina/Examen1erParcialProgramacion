@@ -86,9 +86,7 @@ public class LibroCalificaciones{
    }
 
                 
-   int Totalestudiantes_Evaluados = Estudiantes;
-                
-   System.out.println("\nTotal De Estudiantes Evaluados en el Grupo : " + Totalestudiantes_Evaluados);
+System.out.println("\nTotal De Estudiantes Evaluados en el Grupo : " + Estudiantes );
 
                 
    lector.close();
